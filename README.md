@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic HTML project where I will practice what I have learned so far and seek to apply this knowledge here, and in the future once I learn more CSS. This project itself is a recipe book website.
